@@ -4890,5 +4890,3 @@ UserInput.InputBegan:Connect(function(input)
         end
     end
 end)
-
-Feito por lucas7motasouza
